@@ -8,3 +8,6 @@
 # zheshidabiaoti
 ## hello world,this's my first ‘code’.
 >希望我能继续学习下去
+- 多行文本
+- 序列文本
+- 集合
